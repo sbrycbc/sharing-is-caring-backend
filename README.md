@@ -2,6 +2,8 @@
 
 This project is an online exchange server developed with Express and Mongoose. Users can share their used goods through this app, and view and follow other user's exchange offers.
 
+- [Front-End Repo](https://github.com/sbrycbc/sharing-is-caring-frontend)
+
 ## Backend Technologies
  
 - Express
